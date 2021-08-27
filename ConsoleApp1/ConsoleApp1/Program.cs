@@ -35,7 +35,7 @@ namespace ConsoleApp1
 				Console.WriteLine();
 
 				Console.WriteLine("For MOVE(MOV) enter 0");
-				Console.WriteLine("For EXCHANGE(EX) enter 1");
+				Console.WriteLine("For EXCHANGE(XCHG) enter 1");
 				int choice = Convert.ToInt32(Console.ReadLine());
 
 				if (choice == 1)
